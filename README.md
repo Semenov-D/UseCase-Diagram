@@ -24,4 +24,4 @@
 <p><b>III. Автор сея деяния </b></p>
 <b><i><u>Семенов Даниил Вадимович, ИВ1-21</u></i></b> <br>
 Ссылка на автора сея деяния выглядит так:
-<a href="https://vk.com/semendaniel">vk</a> (кликабельно)
+<a href="https://vk.com/semendaniel">VKontakte</a> (кликабельно)
